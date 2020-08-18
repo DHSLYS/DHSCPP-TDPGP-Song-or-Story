@@ -1,3 +1,2 @@
 # DHS-Song-Story
-Hi! I am <b>Yi Shen</b> 
-  and this is a project for the <mark>teachers in DHS</mark>!😊
+Hi! I am <i><b>Yi Shen</b><i> and this is a project for the teachers in DHS!😊
