@@ -1,9 +1,11 @@
 Ideas for story/song:
 
 Math:
+    
     Ms Catharine Ng
 
 Science:
+    
     Mr Lim
     
     Mr Ong
@@ -11,24 +13,32 @@ Science:
     Ms Chu
 
 English:
+    
     Ms Vaz
 
 Chinese:
+    
     Mdm Sim
+    
 Geography:
+    
     Ms Ng
     
 History:
+    
     Ms Poh
     
 TRP:
+    
     Mr Lee
 PE:
+    
     Ms Lee
     
     Mr Chew
     
 Computing:
+    
     Mr Mark
     
     Mr Ho
@@ -36,6 +46,7 @@ Computing:
     Mr Ng
     
 Conversational Malay:
+    
     Mrs Nora
     
 Art:
@@ -43,7 +54,9 @@ Art:
     
 LSP:
     Makerspace:
-      Mr Low
-    Cooking:
+      
+       Mr Low
+    
+   Cooking:
       
     
