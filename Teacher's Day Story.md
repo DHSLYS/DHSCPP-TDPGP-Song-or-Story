@@ -21,7 +21,7 @@ Science:
     
     Mr Lim
     
-    Mr Ong
+    Mr Ong(You could write about Mr Ong and the fateful ECM 2, our first lab session with him)
     
     Ms Chu
 
