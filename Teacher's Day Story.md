@@ -1,5 +1,18 @@
 Ideas for story/song:
 
+
+
+
+
+
+
+
+
+
+
+
+
+Facts about our teacher (feel free to edit!😊)
 Math:
     
     Ms Catherine Ng
