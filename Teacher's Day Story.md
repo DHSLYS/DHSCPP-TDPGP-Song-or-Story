@@ -2,7 +2,7 @@ Ideas for story/song:
 
 Math:
     
-    Ms Catharine Ng
+    Ms Catherine Ng
 
 Science:
     
