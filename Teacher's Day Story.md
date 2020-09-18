@@ -22,7 +22,7 @@ Science:
     Mr Lim
     
     Mr Ong(You could write about Mr Ong and the fateful ECM 2, our first lab session with him)
-    Mr Ong had scolded us once because of mixing chemicals 
+        Mr Ong had scolded us once because of mixing chemicals without any purpose, causing the chemicals to go to waste. It was the first and only time he yelled at us (Fortunately 🙌)
     
     Ms Chu
 
