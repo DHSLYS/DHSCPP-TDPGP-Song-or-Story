@@ -7,4 +7,4 @@ The computing teacher's day project
 
 https://github.com/DHSLYS/DHSCPP-TDPGP-Song-or-Story/blob/master/Teacher's%20Day%20Story.md 
 
-I still need help on the list of teachers... :(
+😊
